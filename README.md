@@ -1,2 +1,3 @@
 # webpack-project
-Sample project set up using project
+
+Boilerplate code for setting up webpack configuration
